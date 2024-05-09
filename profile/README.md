@@ -1,5 +1,3 @@
-# .github
-
 # Welcome to Kordova Tek Inc.
 
 ## Bringing Your Business to Life Through Digital Innovation
